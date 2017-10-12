@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<ActorCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Actors>
+    <Actor Name="Player">
+      <PosX>3.14953685</PosX>
+      <PosY>1.6</PosY>
+      <PosZ>-16.4860229</PosZ>
+      <Health>50</Health>
+    </Actor>
+    <Actor Name="Player">
+      <PosX>8.1495285</PosX>
+      <PosY>1.6</PosY>
+      <PosZ>1.65397823</PosZ>
+      <Health>50</Health>
+    </Actor>
+    <Actor Name="Player">
+      <PosX>-10.3204641</PosX>
+      <PosY>1.6</PosY>
+      <PosZ>-6.66602</PosZ>
+      <Health>50</Health>
+    </Actor>
+    <Actor Name="Player">
+      <PosX>3.14953685</PosX>
+      <PosY>1.6</PosY>
+      <PosZ>-16.4860229</PosZ>
+      <Health>50</Health>
+    </Actor>
+    <Actor Name="Player">
+      <PosX>8.1495285</PosX>
+      <PosY>1.6</PosY>
+      <PosZ>1.65397823</PosZ>
+      <Health>50</Health>
+    </Actor>
+    <Actor Name="Player">
+      <PosX>-10.3204641</PosX>
+      <PosY>1.6</PosY>
+      <PosZ>-6.66602</PosZ>
+      <Health>50</Health>
+    </Actor>
+  </Actors>
+</ActorCollection>

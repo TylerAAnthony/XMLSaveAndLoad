@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{4D095E97-9C75-BA03-7F81-DDFEFF4E5E68}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Scripts/GameController.cs">
+    <Files>
+      <File FileName="Assets/Resources/actors.xml" Line="7" Column="31" />
+      <File FileName="Assets/Resources/PlayerControllers/Scripts/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Scripts/SaveData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Scripts/ActorContainer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Scripts/GameController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XmlSaveAndLoad PreferredExecutionTarget="Unity.Editor" />
+</Properties>
